@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://intelcore15.github.io/ultra/sitemap.xml
